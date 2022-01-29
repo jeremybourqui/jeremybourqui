@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tools on Un blog sur l&#39;accessibilité</title>
+    <link>http://example.org/tags/tools/</link>
+    <description>Recent content in tools on Un blog sur l&#39;accessibilité</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jan 2022 10:07:43 +0100</lastBuildDate><atom:link href="http://example.org/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experimentation d&#39;outils d&#39;audit d&#39;accessibilité</title>
+      <link>http://example.org/posts/my-fifth-post/</link>
+      <pubDate>Thu, 20 Jan 2022 10:07:43 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-fifth-post/</guid>
+      <description>Google lighthouse Google Lighthouse est un outil d&amp;rsquo;audit généraliste de page web, intégré aux outils de développement du navigateur Google Chrome. Il permet l&amp;rsquo;évaluation de plusieurs points, la performance, l&amp;rsquo;accessibilité, les Best-Practices, le SEO et le PWA. En ce qui concerne l&amp;rsquo;accessibilité, faisons un petit test sur le site HEIG-VD.
+L&amp;rsquo;outil remonte une liste de recommandations avec des ressources pour résoudre le problème. Par exemple, lorsqu&amp;rsquo;il détecte un problème de contraste sur certains paragraphes, il liste les éléments problématiques, avec un lien direct sur la balise HTML correspondante, une explication rapide du problème et un lien vers un article détaillant le problème.</description>
+    </item>
+    
+    <item>
+      <title>Comment designer pour l&#39;accessibilité ?</title>
+      <link>http://example.org/posts/my-fourth-post/</link>
+      <pubDate>Thu, 20 Jan 2022 10:07:34 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-fourth-post/</guid>
+      <description>Quelques astuces pour designer des interfaces plus accessibles 1. Le contraste Le contraste de couleur entre le texte et le fond doit être suffisamment élevé pour être lisible par tous, et proportionnel à la taille du texte, plus il est petit plus le contraste doit être grand. Il y a des outils Contrast Checker, et des recommandations officielles pour les questions de contrastes WCAG.
+2. Ne pas utiliser les couleurs comme seules indications Si vous devez mettre en avant un élément important, ne pas le faire uniquement en changeant la couleur de celui-ci.</description>
+    </item>
+    
+  </channel>
+</rss>

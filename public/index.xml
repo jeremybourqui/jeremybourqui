@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Un blog sur l&#39;accessibilité</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Un blog sur l&#39;accessibilité</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jan 2022 10:36:35 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter et L&#39;accessibilité</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Sat, 29 Jan 2022 10:36:35 +0100</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description>Mise à jour de Twitter En aout l&amp;rsquo;année passée, Twitter a fait de nombreux changements sur son site de microblogging, en annonçant des améliorations notables en termes d&amp;rsquo;accessibilité. Cependant plusieurs experts expriment qu&amp;rsquo;ils ya encore du travail pour rendre le site vraiment accessible.
+Une question de contraste Un des changements notables est la nouvelle police de caractère utilisée, une police développée en interne et qui a plus de contraste. L&amp;rsquo;intérêt d&amp;rsquo;un plus grand contraste est bénéficiaire pour les personnes ayant un handicap visuel.</description>
+    </item>
+    
+    <item>
+      <title>Experimentation d&#39;outils d&#39;audit d&#39;accessibilité</title>
+      <link>http://example.org/posts/my-fifth-post/</link>
+      <pubDate>Thu, 20 Jan 2022 10:07:43 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-fifth-post/</guid>
+      <description>Google lighthouse Google Lighthouse est un outil d&amp;rsquo;audit généraliste de page web, intégré aux outils de développement du navigateur Google Chrome. Il permet l&amp;rsquo;évaluation de plusieurs points, la performance, l&amp;rsquo;accessibilité, les Best-Practices, le SEO et le PWA. En ce qui concerne l&amp;rsquo;accessibilité, faisons un petit test sur le site HEIG-VD.
+L&amp;rsquo;outil remonte une liste de recommandations avec des ressources pour résoudre le problème. Par exemple, lorsqu&amp;rsquo;il détecte un problème de contraste sur certains paragraphes, il liste les éléments problématiques, avec un lien direct sur la balise HTML correspondante, une explication rapide du problème et un lien vers un article détaillant le problème.</description>
+    </item>
+    
+    <item>
+      <title>Comment designer pour l&#39;accessibilité ?</title>
+      <link>http://example.org/posts/my-fourth-post/</link>
+      <pubDate>Thu, 20 Jan 2022 10:07:34 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-fourth-post/</guid>
+      <description>Quelques astuces pour designer des interfaces plus accessibles 1. Le contraste Le contraste de couleur entre le texte et le fond doit être suffisamment élevé pour être lisible par tous, et proportionnel à la taille du texte, plus il est petit plus le contraste doit être grand. Il y a des outils Contrast Checker, et des recommandations officielles pour les questions de contrastes WCAG.
+2. Ne pas utiliser les couleurs comme seules indications Si vous devez mettre en avant un élément important, ne pas le faire uniquement en changeant la couleur de celui-ci.</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi autant d&#39;entreprises échouent sur l&#39;accessibilité</title>
+      <link>http://example.org/posts/my-third-post/</link>
+      <pubDate>Thu, 20 Jan 2022 10:07:21 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-third-post/</guid>
+      <description>Aujourd&amp;rsquo;hui, alors que l&amp;rsquo;accessibilité est considérée comme essentielle par la plupart, beaucoup d&amp;rsquo;entreprises ont pourtant de la peine à se mettre à niveau. Plusieurs rapports (Avasant, StoryBlok) sur le sujet annoncent que la moitié des sites des entreprises analysées sont insatisfaisants en termes d&amp;rsquo;accessibilité.
+Le public nécessitant des sites plus accessibles représenterait plus d&amp;rsquo;un milliard de personnes dans le monde, c&amp;rsquo;est donc un marché non négligeable. De plus, des démarches envers l&amp;rsquo;accessibilité apportent des avantages au-delà de ce public, une meilleure expérience utilisateur globale et de meilleures pratiques en termes de design et de développement.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/page/about/</link>
+      <pubDate>Thu, 20 Jan 2022 09:51:42 +0100</pubDate>
+      
+      <guid>http://example.org/page/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L&#39;accesibilité utile a tous ?</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Thu, 20 Jan 2022 09:51:02 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description>Convaincre de l&amp;rsquo;intérêt de l&amp;rsquo;accessibilité L&amp;rsquo;accessibilité à un intérêt supérieur que rendre disponible son site aux personnes qui ont des besoins spécifiques. Mais beaucoup de personnes souhaitant mettre une priorité sur l&amp;rsquo;accessibilité vont recevoir des questionnements voir des refus de la part de leurs collègues et/ou responsables parce que cela sera supposé trop couteux en temps, budget et ressources.
+Voici quelques points pour intégrer facilement des réflexions d&amp;rsquo;accessibilité dans les processus de design et de développement.</description>
+    </item>
+    
+    <item>
+      <title>A propos</title>
+      <link>http://example.org/posts/about/</link>
+      <pubDate>Mon, 10 Jan 2022 11:00:05 +0100</pubDate>
+      
+      <guid>http://example.org/posts/about/</guid>
+      <description>À propos de ce blog Bonjour, Je m&amp;rsquo;appelle Jeremy Bourqui, actuellement en formation d&amp;rsquo;ingénierie des médias. Mes centres d&amp;rsquo;intérêt sont le design d&amp;rsquo;expériences utilisateurs, le design d&amp;rsquo;interface, ainsi que le développement web. L&amp;rsquo;accessibilité web est un sujet qui traverse de multiples facettes de la création de produits digitaux, c&amp;rsquo;est pourquoi je m&amp;rsquo;y intéresse.
+Ce blog traite donc de l&amp;rsquo;accessibilité sur le web, sur plusieurs axes, que ce soit les questions de design d&amp;rsquo;interface, de design d&amp;rsquo;expérience utilisateur, de business, de technique&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

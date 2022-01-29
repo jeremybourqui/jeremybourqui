@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UI on Un blog sur l&#39;accessibilité</title>
+    <link>http://example.org/tags/ui/</link>
+    <description>Recent content in UI on Un blog sur l&#39;accessibilité</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jan 2022 10:36:35 +0100</lastBuildDate><atom:link href="http://example.org/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twitter et L&#39;accessibilité</title>
+      <link>http://example.org/posts/test/</link>
+      <pubDate>Sat, 29 Jan 2022 10:36:35 +0100</pubDate>
+      
+      <guid>http://example.org/posts/test/</guid>
+      <description>Mise à jour de Twitter En aout l&amp;rsquo;année passée, Twitter a fait de nombreux changements sur son site de microblogging, en annonçant des améliorations notables en termes d&amp;rsquo;accessibilité. Cependant plusieurs experts expriment qu&amp;rsquo;ils ya encore du travail pour rendre le site vraiment accessible.
+Une question de contraste Un des changements notables est la nouvelle police de caractère utilisée, une police développée en interne et qui a plus de contraste. L&amp;rsquo;intérêt d&amp;rsquo;un plus grand contraste est bénéficiaire pour les personnes ayant un handicap visuel.</description>
+    </item>
+    
+    <item>
+      <title>Comment designer pour l&#39;accessibilité ?</title>
+      <link>http://example.org/posts/my-fourth-post/</link>
+      <pubDate>Thu, 20 Jan 2022 10:07:34 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-fourth-post/</guid>
+      <description>Quelques astuces pour designer des interfaces plus accessibles 1. Le contraste Le contraste de couleur entre le texte et le fond doit être suffisamment élevé pour être lisible par tous, et proportionnel à la taille du texte, plus il est petit plus le contraste doit être grand. Il y a des outils Contrast Checker, et des recommandations officielles pour les questions de contrastes WCAG.
+2. Ne pas utiliser les couleurs comme seules indications Si vous devez mettre en avant un élément important, ne pas le faire uniquement en changeant la couleur de celui-ci.</description>
+    </item>
+    
+  </channel>
+</rss>

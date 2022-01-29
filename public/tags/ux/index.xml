@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX on Un blog sur l&#39;accessibilité</title>
+    <link>http://example.org/tags/ux/</link>
+    <description>Recent content in UX on Un blog sur l&#39;accessibilité</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jan 2022 09:51:02 +0100</lastBuildDate><atom:link href="http://example.org/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;accesibilité utile a tous ?</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Thu, 20 Jan 2022 09:51:02 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description>Convaincre de l&amp;rsquo;intérêt de l&amp;rsquo;accessibilité L&amp;rsquo;accessibilité à un intérêt supérieur que rendre disponible son site aux personnes qui ont des besoins spécifiques. Mais beaucoup de personnes souhaitant mettre une priorité sur l&amp;rsquo;accessibilité vont recevoir des questionnements voir des refus de la part de leurs collègues et/ou responsables parce que cela sera supposé trop couteux en temps, budget et ressources.
+Voici quelques points pour intégrer facilement des réflexions d&amp;rsquo;accessibilité dans les processus de design et de développement.</description>
+    </item>
+    
+  </channel>
+</rss>
